@@ -1,9 +1,0 @@
-[submodule "LECTURES-SMTI"]
-	path = LECTURES-SMTI
-	url = https://github.com/febriyansyahresearch-lab/LECTURES-SMTI.git
-[submodule "LECTURES-SMTII"]
-	path = LECTURES-SMTII
-	url = https://github.com/febriyansyahresearch-lab/LECTURES-SMTII.git
-[submodule "LECTURES-SMTIII"]
-	path = LECTURES-SMTIII
-	url = https://github.com/febriyansyahresearch-lab/LECTURES-SMTIII.git
