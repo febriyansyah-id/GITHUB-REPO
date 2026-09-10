@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "GITHUB-REPO",
+			"path": "."
+		},
+		{
+			"name": "LECTURES-SMTI",
+			"path": "LECTURES-SMTI"
+		},
+		{
+			"name": "LECTURES-SMTII",
+			"path": "LECTURES-SMTII"
+		},
+		{
+			"name": "LECTURES-SMTIII",
+			"path": "LECTURES-SMTIII"
+		}
+	],
+	"settings": {}
+}
