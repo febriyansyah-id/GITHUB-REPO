@@ -1,5 +1,5 @@
 {
-  "python.defaultInterpreterPath": "${workspaceFolder}/collab-workspace/.venv/bin/python",
+  "python.defaultInterpreterPath": "${workspaceFolder}/COLLAB-WORKSPACE/.venv/bin/python",
   "python.terminal.activateEnvironment": true,
-  "jupyter.notebookFileRoot": "${workspaceFolder}/collab-workspace"
+  "jupyter.notebookFileRoot": "${workspaceFolder}/COLLAB-WORKSPACE"
 }
