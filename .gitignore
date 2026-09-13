@@ -4,3 +4,9 @@ LECTURES-SMTII/
 LECTURES-SMTIII/
 HACKTHEBOX-POOL/
 HACKTHEBOX/
+
+# Separate GitHub repos (tracked independently)
+KAGGLE-LEARN/
+
+# CatBoost training artifacts
+catboost_info/
