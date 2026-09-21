@@ -1,12 +1,33 @@
-LECTURES-WORKSPACE/
-LECTURES-SMTI/
-LECTURES-SMTII/
-LECTURES-SMTIII/
-HACKTHEBOX-POOL/
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Private or separately managed repositories
 HACKTHEBOX/
+HACKTHEBOX-PRIVATE/
+KAGGLE-PRIVATE/
+LECTURES-SMTI-PRIVATE/
+LECTURES-SMTII-PRIVATE/
+LECTURES-SMTIII-PRIVATE/
 
-# Separate GitHub repos (tracked independently)
-KAGGLE-LEARN/
-
-# CatBoost training artifacts
+# Machine-learning artifacts
 catboost_info/
